@@ -1,14 +1,9 @@
-//
-//  main.c
-//  Experiment - 1
-//
-//  Created by Hansika Gupta on 01/09/25.
-//
+//1. Write a C program to print “ Hello World”
 
 #include <stdio.h>
-
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
+int main()
+{
+    printf("//Hansika Gupta\n");
+    printf("Hello world\n");
     return 0;
 }
